@@ -30,6 +30,7 @@ Pretty simple, right? Well this is where it gets interesting:
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a
 legendary item and as such its Quality is 80 and it never alters.
+
 ---
 
 Your task is document the **existing** behavior by writing characterization tests. Do not change any of the code!
