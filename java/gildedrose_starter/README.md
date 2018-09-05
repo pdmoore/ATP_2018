@@ -33,4 +33,4 @@ legendary item and as such its Quality is 80 and it never alters.
 
 ---
 
-Your task is document the **existing** behavior by writing characterization tests. Do not change any of the code!
+    Your task is document the **existing** behavior by writing characterization tests. Do not change any of the code!
